@@ -23,26 +23,26 @@ This repository contains a **Bash script** that analyzes the **TMDB movie datase
 
 ---
 
-## 🚀 How to Run the Script?
+## How to Run the Script?
 
-### 1️⃣ **Install Required Tools**
+###  **1. Install Required Tools**
 Ensure `csvkit` is installed:
 ```bash
 pip install csvkit
 ```
 
-### 2️⃣ **Run the Script**
+###  **2. Run the Script**
 ```bash
 chmod +x analyze_tmdb.sh
 ./analyze_tmdb.sh
 ```
 
-### 3️⃣ **View the Results**
+### **3. View the Results**
 After execution, check the generated `.csv` and `.txt` files for insights.
 
 ---
 
-## 🌟 Features & Analysis
+## Features & Analysis
 ✅ **Sort movies** by release year & date.  
 ✅ **Filter movies** with ratings ≥ 7.5.  
 ✅ **Find highest & lowest revenue movies.**  
@@ -53,8 +53,8 @@ After execution, check the generated `.csv` and `.txt` files for insights.
 
 ---
 
-## 📌 Contributing
+##  Contributing
 Feel free to fork the repo, suggest improvements, or submit pull requests!
 
-📧 **Contact:** dunhan1905@gmail.com  
-🔗 **GitHub:** [DuNhan1930](https://github.com/DuNhan1930)
+**Contact:** dunhan1905@gmail.com  
+**GitHub:** [DuNhan1930](https://github.com/DuNhan1930)
