@@ -43,13 +43,13 @@ After execution, check the generated `.csv` and `.txt` files for insights.
 ---
 
 ## Features & Analysis
-✅ **Sort movies** by release year & date.  
-✅ **Filter movies** with ratings ≥ 7.5.  
-✅ **Find highest & lowest revenue movies.**  
-✅ **Calculate total revenue of all movies.**  
-✅ **Find top 10 most profitable movies.**  
-✅ **Identify the most prolific directors & actors.**  
-✅ **Count the number of movies per genre.**  
+ **Sort movies** by release year & date.  
+ **Filter movies** with ratings ≥ 7.5.  
+ **Find highest & lowest revenue movies.**  
+ **Calculate total revenue of all movies.**  
+ **Find top 10 most profitable movies.**  
+ **Identify the most prolific directors & actors.**  
+ **Count the number of movies per genre.**  
 
 ---
 
